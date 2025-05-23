@@ -1,0 +1,95 @@
+[
+  {
+    "id": "cumbre-gourmet",
+    "brand": {
+      "name": "Cumbre",
+      "producer": "Finca San Miguel",
+      "description": "Productores de café de altura en Veracruz, comprometidos con la calidad artesanal."
+    },
+    "type": "Gourmet",
+    "name": "Café Cumbre Gourmet",
+    "shortDescription": "Café gourmet de altura, ideal para paladares exigentes.",
+    "longDescription": "Este café gourmet es cultivado a 1,300 m.s.n.m. en micro-lotes seleccionados. Tostado medio, con notas a chocolate oscuro y frutos secos.",
+    "photos": [
+      "/images/cumbre-gourmet-1.jpg",
+      "/images/cumbre-gourmet-2.jpg"
+    ],
+    "variants": {
+      "weight": [
+        { "value": "250g", "price": 90, "discountPrice": 80 },
+        { "value": "500g", "price": 170, "discountPrice": 150 },
+        { "value": "1kg",   "price": 320, "discountPrice": 290 }
+      ],
+      "grind": ["En grano", "Molido para prensa", "Molido para cafetera", "Molido para espresso"]
+    }
+  },
+  {
+    "id": "cumbre-nacional",
+    "brand": {
+      "name": "Cumbre",
+      "producer": "Finca San Miguel",
+      "description": "Productores de café de altura en Veracruz, comprometidos con la calidad artesanal."
+    },
+    "type": "Nacional",
+    "name": "Café Cumbre Nacional",
+    "shortDescription": "Una opción accesible sin sacrificar sabor ni calidad.",
+    "longDescription": "Café tostado medio con cuerpo balanceado y notas suaves a nuez. Ideal para uso diario en casa o negocio.",
+    "photos": [
+      "/images/cumbre-nacional-1.jpg"
+    ],
+    "variants": {
+      "weight": [
+        { "value": "250g", "price": 65, "discountPrice": 60 },
+        { "value": "500g", "price": 120, "discountPrice": 110 },
+        { "value": "1kg",   "price": 220, "discountPrice": 200 }
+      ],
+      "grind": ["En grano", "Molido para cafetera", "Molido para espresso"]
+    }
+  },
+  {
+    "id": "sierra-verde-exportacion",
+    "brand": {
+      "name": "Sierra Verde",
+      "producer": "Cooperativa El Aguacatal",
+      "description": "Café orgánico producido en comunidad por pequeños caficultores en la Sierra de Zongolica."
+    },
+    "type": "Exportación",
+    "name": "Sierra Verde Exportación",
+    "shortDescription": "Café orgánico certificado, con perfil complejo y floral.",
+    "longDescription": "Cultivado a 1,400 m.s.n.m. con sombra natural. Tostado claro, con notas a frutos rojos, flores silvestres y una acidez brillante.",
+    "photos": [
+      "/images/sierra-verde-export-1.jpg",
+      "/images/sierra-verde-export-2.jpg"
+    ],
+    "variants": {
+      "weight": [
+        { "value": "250g", "price": 100, "discountPrice": 95 },
+        { "value": "500g", "price": 190, "discountPrice": 180 },
+        { "value": "1kg",   "price": 360, "discountPrice": 340 }
+      ],
+      "grind": ["En grano", "Molido para V60", "Molido para prensa"]
+    }
+  },
+  {
+    "id": "sierra-verde-gourmet",
+    "brand": {
+      "name": "Sierra Verde",
+      "producer": "Cooperativa El Aguacatal",
+      "description": "Café orgánico producido en comunidad por pequeños caficultores en la Sierra de Zongolica."
+    },
+    "type": "Gourmet",
+    "name": "Sierra Verde Gourmet",
+    "shortDescription": "Perfil dulce, limpio y bien balanceado. Ideal para métodos suaves.",
+    "longDescription": "Seleccionado manualmente y tostado en pequeños lotes. Este café tiene notas a caramelo, almendra tostada y frutas amarillas.",
+    "photos": [
+      "/images/sierra-verde-gourmet-1.jpg"
+    ],
+    "variants": {
+      "weight": [
+        { "value": "250g", "price": 95, "discountPrice": 85 },
+        { "value": "500g", "price": 180, "discountPrice": 165 }
+      ],
+      "grind": ["En grano", "Molido para cafetera", "Molido medio"]
+    }
+  }
+]
