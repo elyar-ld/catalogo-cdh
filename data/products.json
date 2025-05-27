@@ -35,7 +35,8 @@
     "shortDescription": "Una opción accesible sin sacrificar sabor ni calidad.",
     "longDescription": "Café tostado medio con cuerpo balanceado y notas suaves a nuez. Ideal para uso diario en casa o negocio.",
     "photos": [
-      "/images/cumbre-nacional-1.jpg"
+      "/images/cumbre-nacional-1.jpg",
+      "/images/cumbre-nacional-2.jpg"
     ],
     "variants": {
       "weight": [
@@ -82,7 +83,8 @@
     "shortDescription": "Perfil dulce, limpio y bien balanceado. Ideal para métodos suaves.",
     "longDescription": "Seleccionado manualmente y tostado en pequeños lotes. Este café tiene notas a caramelo, almendra tostada y frutas amarillas.",
     "photos": [
-      "/images/sierra-verde-gourmet-1.jpg"
+      "/images/sierra-verde-gourmet-1.jpg",
+      "/images/sierra-verde-gourmet-2.jpg"
     ],
     "variants": {
       "weight": [
